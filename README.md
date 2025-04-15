@@ -36,11 +36,11 @@ All examples are clean, simple, and reflect **real-world data tasks** 💼
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Srabany/FireDucks_vs._Pandas_Comparisons.git
+   https://github.com/Deskpo/Fireducks-against-panda/edit/main/README.md
    ```
 
 2. **Open the Notebook**  
-   Launch `FireDucks_vs.Pandas_Data_Engineering-_Large-Scale_Processing.ipynb` using:
+   Launch `https://colab.research.google.com/drive/1uu13lrAS8OShWC5QF3BYHfU_S1ouuOi- using:
 
    - [Google Colab](https://colab.research.google.com/) 🌐  
    - OR [Jupyter Notebook](https://jupyter.org/) locally 📓
@@ -50,14 +50,6 @@ All examples are clean, simple, and reflect **real-world data tasks** 💼
 
 ---
 
-## 📥 Dataset Download
-
-Grab the dataset to test things yourself:
-
-👉 **[Download large_dataset.csv](#)**  
-(*Replace this with your actual dataset link*)
-
----
 
 ## 🎯 Purpose
 
@@ -69,13 +61,6 @@ This project aims to:
 
 ---
 
-## 📸 Visual Sneak Peek
-
-**Runtime Comparison:**
-![benchmark_gif](path/to/your/benchmark.gif)  
-*(Replace with your actual gif path)*
-
----
 
 ## 🤝 Contributions
 
